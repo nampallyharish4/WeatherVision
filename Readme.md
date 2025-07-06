@@ -13,9 +13,11 @@ A modern, interactive weather forecasting application focused on Indian cities. 
 - **Unit Toggle:** Switch between Celsius and Fahrenheit.
 - **Responsive UI:** Clean, mobile-friendly design using Tailwind CSS.
 
-## Screenshots
+## 📸 Screenshot
 
-> _Add screenshots here if available._
+![WeatherVision Preview](./screen-weather-vision.png)
+
+---
 
 ## Getting Started
 
